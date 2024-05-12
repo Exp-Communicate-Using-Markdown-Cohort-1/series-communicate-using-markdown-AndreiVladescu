@@ -14,3 +14,8 @@ int main() {
 }
 
 ```
+
+## Now let's get to the task lists
+- [x] Tried them in examples
+- [ ] Tried it in real repos
+- [x] Seen the usefullnes of them
